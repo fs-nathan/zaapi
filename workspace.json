@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "zaapi-desktop": "apps/zaapi-desktop",
+    "zaapi-desktop-e2e": "apps/zaapi-desktop-e2e"
+  }
+}
